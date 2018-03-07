@@ -14,6 +14,12 @@
   #main > article {
     flex: 1;
   }
+article #diffPictures img {
+}
+article #diffPictures img {
+}
+
+
   #main > nav, 
   #main > aside {
     flex: 0 0 20vw;
